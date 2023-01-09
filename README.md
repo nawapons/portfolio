@@ -1,2 +1,2 @@
-Portfolio
-# this project create by React.js & TailwindCSS
+# Portfolio
+this project create by React.js & TailwindCSS
